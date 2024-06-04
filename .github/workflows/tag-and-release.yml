@@ -34,6 +34,3 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup UDS
-        if: always()
-        uses: beholdenkey/beholden-actions-workflows/.github/actions/setup@main
