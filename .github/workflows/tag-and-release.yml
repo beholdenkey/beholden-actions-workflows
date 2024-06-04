@@ -1,5 +1,5 @@
 ---
-name: Publish Package
+name: Release and Tag
 on:
   push:
     branches:
